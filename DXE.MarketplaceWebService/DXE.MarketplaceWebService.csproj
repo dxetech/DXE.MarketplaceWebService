@@ -1,7 +1,16 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>James Maxwell</Authors>
+    <Company>DXE Technologies LLC</Company>
+    <Product />
+    <Description>Not an official package! A dotnet 2.0 standard compatible library for Amazon's MarketplaceWebService built using the models and client from Amazon's C# sdk.</Description>
+    <PackageId>DXE.MarketplaceWebService.Standard</PackageId>
+    <PackageTags>MWS MarketplaceWebService Amazon</PackageTags>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
   </PropertyGroup>
 
 </Project>
