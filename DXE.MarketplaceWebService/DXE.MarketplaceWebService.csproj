@@ -11,6 +11,7 @@
     <PackageTags>MWS MarketplaceWebService Amazon</PackageTags>
     <AssemblyVersion>1.0.1.0</AssemblyVersion>
     <FileVersion>1.0.1.0</FileVersion>
+    <PackageProjectUrl>https://github.com/dxetech/DXE.MarketplaceWebService</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
